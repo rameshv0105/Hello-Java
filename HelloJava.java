@@ -1,5 +1,3 @@
-package com.javaexamples.client;
-
 public class HelloJava {
 
 	public static void main(String[] args) {
